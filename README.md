@@ -52,6 +52,3 @@ Hi, I'm **Aman Vats**, a **B.Tech Computer Science Engineering (CSE) student** a
 ⭐ This GitHub profile belongs to **Aman Vats**, Computer Science Engineering student and developer.
 
 
----
-⭐ This GitHub profile belongs to **Aman Vats**, Computer Science Engineering student and developer.
-
