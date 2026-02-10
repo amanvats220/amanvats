@@ -48,7 +48,7 @@
 ---
 
 
-## 🧠 LeetCode Progress
+## 🧠 LeetCode Progress 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Amanvats_07?theme=dark&font=Baloo&ext=contest" />
@@ -57,7 +57,7 @@
 ---
 
 ## 💼 Featured Projects
-🚧 **In Progress (High-Impact Repos)**
+🚧 **In Progress (High-Impact Repository)**
 
 - 🔹 **DSA Master Repository** (C++)
 - 🔹 **Full Stack Web Application**
